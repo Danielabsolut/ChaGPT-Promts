@@ -5,7 +5,7 @@
 
 
 # ChaGPT-Promts
-### ****Here will be various prompts for ChatGPT for creating photographs and working with text.****
+### ****Here will be various useful prompts for ChatGPT for creating pictures and working with text.****
 ### *Last update: 4 Apr, 2025*
 
 
@@ -22,3 +22,4 @@ The word [rock] can be changed to a needed material.
 >`print this out and add unhinged red ink hand written annotations, doodles, scribbles, little cut outs if you wan`
 
 ## #4 We turn a person into a toy model with accompanying artifacts. You can upload your photo and add the desired items.
+
