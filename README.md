@@ -43,7 +43,7 @@ The word [rock] can be changed to a needed material.
   
 </details>
 
-## #4 Turn a person into a toy model with accompanying artifacts. You can upload your photo and add the desired items.
+## #4 Turn a person into a toy model with accompanying artifacts. _You can upload your photo and add the desired items._
 >`Create a square action figure blister pack featuring Kendrick Lamar figure and personalized toy accessories (microphone, blue LA baseball cap, pen, notepad, grammy award statue, and a CD), neatly displayed in plastic alongside the figure. Include a bold header "KENDRICK LAMAR" on the packaging. Keep the style clean, colorful, and toy-store ready`
 
 <details>
