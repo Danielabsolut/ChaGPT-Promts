@@ -16,7 +16,7 @@
 <details>
   <summary>Example</summary>
 
-  ![Example Image](./images/#1.png)
+  ![Example Image](./images/1.png)
   
 </details>
 
