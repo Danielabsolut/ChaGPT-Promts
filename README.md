@@ -1,5 +1,5 @@
 
-[//]: # (git commit -am "Автоматический коммит" && git push)
+[//]: # (git commit -am "Auto" && git push)
 
 
 
