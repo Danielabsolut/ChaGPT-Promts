@@ -26,8 +26,29 @@
 
 The word [rock] can be changed to a needed material.
 
-## #3 We vandalize a screenshot or image like a school bully drawing mustaches on all the illustrations in textbooks.
+<details>
+  <summary>Example</summary>
+
+  ![Example Image](./images/2.jpg)
+  
+</details>
+
+## #3 Vandalize a screenshot or image like a school bully drawing mustaches on all the illustrations in textbooks.
 >`print this out and add unhinged red ink hand written annotations, doodles, scribbles, little cut outs if you wan`
 
-## #4 We turn a person into a toy model with accompanying artifacts. You can upload your photo and add the desired items.
+<details>
+  <summary>Example</summary>
 
+  ![Example Image](./images/3.jpg)
+  
+</details>
+
+## #4 Turn a person into a toy model with accompanying artifacts. You can upload your photo and add the desired items.
+>`Create a square action figure blister pack featuring Kendrick Lamar figure and personalized toy accessories (microphone, blue LA baseball cap, pen, notepad, grammy award statue, and a CD), neatly displayed in plastic alongside the figure. Include a bold header "KENDRICK LAMAR" on the packaging. Keep the style clean, colorful, and toy-store ready`
+
+<details>
+  <summary>Example</summary>
+
+  ![Example Image](./images/4.jpg)
+  
+</details>
