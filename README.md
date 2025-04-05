@@ -15,10 +15,11 @@
 
 <details>
   <summary>Example</summary>
-  
-  ![Example](./images/#1.png)
+
+  ![Example Image](./images/#1.png)
   
 </details>
+
 
 ## #2 Сreate seamless textures for games, applications, or websites.
 >`Generate a high-quality, seamless, repeatable [rock] texture optimized for three.js materials. Ensure the texture has uniform lighting, no visible borders or seams, and maintains consistent color, density, and scale across the entire surface. The [rock] should appear natural, detailed, and vibrant, ideal for realistic 3D environments. Render the texture top-down with even distribution, suitable for infinite repetition in any direction`
